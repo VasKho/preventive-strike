@@ -1,0 +1,4 @@
+soundtrack/*
+!soundtrack/.gitkeep
+
+__pycache__/
